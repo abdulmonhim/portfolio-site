@@ -10,7 +10,7 @@ const projects = [
     description:
       "Simulated supersonic airflow through a turbojet intake and nozzle with afterburner modeling.",
     // image: "/projects/jet-engine.jpg",
-    image: "/project1.png",
+    image: "/Project1.png",
     link: "/projects/jet-engine",
   },
   {
@@ -19,7 +19,7 @@ const projects = [
     description:
       "Stress and durability analysis of an independent suspension system using ANSYS.",
     // image: "/projects/suspension.jpg",
-    image: "/project2.png",
+    image: "/Project2.png",
     link: "/projects/suspension",
   },
   {
@@ -28,7 +28,7 @@ const projects = [
     description:
       "Designed and optimized a robotic arm for pick-and-place operations in Fusion 360.",
     // image: "/projects/robotic-arm.jpg",
-    image: "/project3.png",
+    image: "/Project3.png",
     link: "/projects/robotic-arm",
   },
   {
@@ -37,7 +37,7 @@ const projects = [
     description:
       "Parametric CAD + CFD study to optimize lift-to-drag ratio for UAV wings.",
     // image: "/projects/wing.jpg",
-    image: "/project4.png",
+    image: "/Project4.png",
     link: "/projects/wing",
   },
 ];
